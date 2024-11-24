@@ -1,1 +1,19 @@
+---
+title: "AI-Face: A Million-Scale Demographically Annotated AI-Generated Face Dataset and Fairness Benchmark"
+collection: publications
+permalink: /publication/AI-Face-Fairness-Benchmark
+excerpt: 'TODO.'
+date: 2024-06-4
+year: 2024
+venue: 'ArXiv'
+arxiv: 2406.00783
+is_show: Ture
+arxiv_url: https://arxiv.org/abs/2406.00783
+project: https://github.com/Purdue-M2/AI-Face-FairnessBench
+teaser: /images/AIface_framework.png
+authors: <b>Li Lin</b>, Santosh, <a href='https://sites.google.com/view/xwang264/home'>Xin Wang</a>, and <a https://web.ics.purdue.edu/~hu968/'>Shu Hu 📧</a>
+publication: <b>Preprint</b>
+---
+
+<!-- [Download paper here](https://arxiv.org/abs/2406.00783) -->
 
